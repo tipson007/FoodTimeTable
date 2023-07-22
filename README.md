@@ -1,5 +1,5 @@
 
-Sure! Below is a sample README.md file for the Python code that generates a weekly meal plan with randomized vegetarian and non-vegetarian options:
+Below is a sample README.md file for the Python code that generates a weekly meal plan with randomized vegetarian and non-vegetarian options:
 
 Weekly Meal Plan Generator
 This Python script generates a weekly meal plan with randomized options for both vegetarian and non-vegetarian meals. It reads meal options from a file, shuffles them, and then selects one meal plan for each day of the week (Monday to Sunday). The meal plans rotate every week, providing a variety of meal options throughout the month.
